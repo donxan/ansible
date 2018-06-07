@@ -1,0 +1,5 @@
+---
+- hosts: aiker03
+  user: root
+  roles:
+  - new
