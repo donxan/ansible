@@ -1,6 +1,6 @@
 # ansible_nginx_install
 ### 简介
-本库为快速安装使用ansible部署nginx.
+本库为快速使用ansible部署nginx.
 ### 克隆库
 git clone git@github.com:donxan/ansible.git
 ### 快速生成目录
